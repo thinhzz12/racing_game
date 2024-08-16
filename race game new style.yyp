@@ -35,7 +35,9 @@
   "name":"race game new style",
   "resources":[
     {"id":{"name":"easy","path":"objects/easy/easy.yy",},},
+    {"id":{"name":"obj_AI","path":"objects/obj_AI/obj_AI.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
     {"id":{"name":"game_play_easy","path":"rooms/game_play_easy/game_play_easy.yy",},},
     {"id":{"name":"game_play_hard","path":"rooms/game_play_hard/game_play_hard.yy",},},
@@ -47,6 +49,8 @@
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
