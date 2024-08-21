@@ -16,7 +16,7 @@
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Particle Systems/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"race game new style",
   "resources":[
@@ -39,6 +39,7 @@
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"player","path":"objects/player/player.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"game_play_easy","path":"rooms/game_play_easy/game_play_easy.yy",},},
     {"id":{"name":"game_play_hard","path":"rooms/game_play_hard/game_play_hard.yy",},},
     {"id":{"name":"game_play_medium","path":"rooms/game_play_medium/game_play_medium.yy",},},

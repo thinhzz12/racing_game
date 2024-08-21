@@ -1,6 +1,9 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 402A55F7
-/// @DnDArgument : "code" "current_waypoint = 0;$(13_10)speed = 4; // Tốc độ của xe đối thủ$(13_10)$(13_10)"
-current_waypoint = 0;
-speed = 4; // Tốc độ của xe đối thủ
+/// @DnDAction : YoYo Games.Paths.Start_Path
+/// @DnDVersion : 1.1
+/// @DnDHash : 64137A4B
+/// @DnDArgument : "path" "Path1"
+/// @DnDArgument : "speed" "2"
+/// @DnDArgument : "atend" "path_action_reverse"
+/// @DnDArgument : "relative" "true"
+/// @DnDSaveInfo : "path" "Path1"
+path_start(Path1, 2, path_action_reverse, true);
